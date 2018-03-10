@@ -1,0 +1,22 @@
+{
+  "name": "enchantedmc",
+  "version": "1.4.1",
+  "description": "EnchantedMC Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ms": "^2.1.1",
+    "mysql": "^2.15.0",
+    "opusscript": "0.0.6",
+    "patron": "0.0.10",
+    "utility": "^1.13.1",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^0.20.0"
+  }
+}
